@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 /**
- * This the Controller for Quiz
+ * This is the Controller for Quiz
  */
 @RestController
 @RequestMapping("quiz")

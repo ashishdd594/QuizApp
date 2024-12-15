@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * This the Controller for question
+ * This is the Controller for Question
  */
 @RestController
 @RequestMapping("question")
