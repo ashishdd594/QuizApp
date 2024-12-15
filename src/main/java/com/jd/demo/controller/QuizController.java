@@ -10,7 +10,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+/**
+ * This the Controller for Quiz
+ */
 @RestController
 @RequestMapping("quiz")
 public class QuizController {
